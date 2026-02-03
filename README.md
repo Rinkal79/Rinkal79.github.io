@@ -6,6 +6,9 @@
 
 # 🎨 Freefolio - Free Portfolio Website Templates
 
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Freefolio+%F0%9F%8E%A8&subheader=Free+Portfolio+Website+Templates&bg=E7F9FF-90C4E8&color=0060A0&headerfont=Ubuntu&subheaderfont=Inter&watermarkpos=bottom-right)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Templates-15+-0060a0?style=for-the-badge" alt="Templates">
   <img src="https://img.shields.io/badge/Dependencies-0-green?style=for-the-badge" alt="Zero Dependencies">
